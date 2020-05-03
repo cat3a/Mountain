@@ -403,7 +403,7 @@ header {
 
 .help-flex {
     display: flex;
-    justify-content: center;
+    justify-content: flex-end;
     padding-left: 98px;
     padding-top: 80px;
     padding-bottom: 80px;
